@@ -1,10 +1,10 @@
 {
-  "name": "theme-mailspring",
-  "title": "Dark Cipher",
-  "displayName": "Dark Cipher",
+  "name": "ui-dark-cipher",
+  "title": "Dark-Cipher",
+  "displayName": "Dark-Cipher",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme for the Mailspring Email Client",
+  "description": "A dark theme for the Mailspring Email Client",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
